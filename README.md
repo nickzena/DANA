@@ -1,4 +1,4 @@
-# Bello - Opensource Emergency service communication system for Android devices.
+# Bello - Opensource emergency service communication system for Android devices.
 --------------------------------------------------------------------------------------
 - Instantaneous 1-to-1 and 1-to-many communications over LTE and WIFI networks. 
 - GLONASS/GALILEO positioning support.
