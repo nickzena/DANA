@@ -1,5 +1,5 @@
 # DANA 
-## Opensource data analysis app for Genoa Metropolitan Police Department.
+## Data analysis app for Genoa Metropolitan Police Department.
 ------------------------------------------------------------------------------------
 Main feature:
 - Read .csv files from ScatWeb app
