@@ -1,6 +1,7 @@
-# Bello - Opensource emergency service communication system for Android devices.
---------------------------------------------------------------------------------------
-- Instantaneous 1-to-1 and 1-to-many communications over LTE and WIFI networks. 
-- GLONASS/GALILEO positioning support.
-- Encryption based on AES256 standard. 
-- Radio crosslink feature.
+# DANA 
+## Opensource data analysis app for Genoa Metropolitan Police Department.
+------------------------------------------------------------------------------------
+Main feature:
+- Read .csv files from ScatWeb app
+- CSV data processing
+- Display on web based app using StreamLit framework
